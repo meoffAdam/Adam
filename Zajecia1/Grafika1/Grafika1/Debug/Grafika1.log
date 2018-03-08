@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  Grafika1.cpp
+d:\grafikaaa\grafika1\grafika1\grafika1.cpp(42): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+d:\grafikaaa\grafika1\grafika1\grafika1.cpp(46): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+d:\grafikaaa\grafika1\grafika1\grafika1.cpp(47): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+  Grafika1.vcxproj -> D:\Grafikaaa\Grafika1\Debug\Grafika1.exe
