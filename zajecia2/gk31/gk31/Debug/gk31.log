@@ -1,0 +1,9 @@
+﻿  gk31.cpp
+d:\adamnowok\gk31\gk31\gk31.cpp(53): warning C4305: "inicjowanie": obcięcie z "double" do "GLfloat"
+d:\adamnowok\gk31\gk31\gk31.cpp(156): warning C4305: "+=": obcięcie z "double" do "GLfloat"
+d:\adamnowok\gk31\gk31\gk31.cpp(161): warning C4305: "-=": obcięcie z "double" do "GLfloat"
+d:\adamnowok\gk31\gk31\gk31.cpp(222): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+d:\adamnowok\gk31\gk31\gk31.cpp(224): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+d:\adamnowok\gk31\gk31\gk31.cpp(226): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+d:\adamnowok\gk31\gk31\gk31.cpp(228): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+  gk31.vcxproj -> D:\ADAMNOWOK\gk31\Debug\gk31.exe
