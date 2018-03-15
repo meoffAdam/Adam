@@ -1,0 +1,9 @@
+﻿  stdafx.cpp
+  gk322.cpp
+d:\adamnowok\gk322\gk322\gk322.cpp(398): warning C4305: "+=": obcięcie z "double" do "GLfloat"
+d:\adamnowok\gk322\gk322\gk322.cpp(402): warning C4305: "-=": obcięcie z "double" do "GLfloat"
+d:\adamnowok\gk322\gk322\gk322.cpp(444): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+d:\adamnowok\gk322\gk322\gk322.cpp(446): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+d:\adamnowok\gk322\gk322\gk322.cpp(448): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+d:\adamnowok\gk322\gk322\gk322.cpp(450): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+  gk322.vcxproj -> D:\ADAMNOWOK\gk322\Debug\gk322.exe
